@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="Bar chart: test site before fixes 68 out of 100, after fixes 89, toolenix.com 85">
+  <rect width="800" height="420" fill="#ffffff"/>
+  <text x="40" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="22" font-weight="700" fill="#111827">Score out of 100 — before / after fixing the same test site</text>
+  <text x="40" y="68" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" fill="#6b7280">Real CLI runs, not illustrations. toolenix.com is a real site audited with the same tool.</text>
+  <line x1="40" y1="350" x2="760" y2="350" stroke="#d1d5db" stroke-width="2"/>
+  <rect x="110" y="132" width="140" height="218" fill="#9ca3af"/>
+  <text x="180" y="120" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="800" fill="#111827">68</text>
+  <text x="180" y="378" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#374151">Test site, before</text>
+  <rect x="330" y="65" width="140" height="285" fill="#f59e0b"/>
+  <text x="400" y="53" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="800" fill="#111827">89</text>
+  <text x="400" y="378" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#374151">Test site, after fixes</text>
+  <rect x="550" y="78" width="140" height="272" fill="#2563eb"/>
+  <text x="620" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="800" fill="#111827">85</text>
+  <text x="620" y="378" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#374151">toolenix.com (real site)</text>
+</svg>
