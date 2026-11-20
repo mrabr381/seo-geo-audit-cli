@@ -1,0 +1,4 @@
+# Pinned to the versions actually tested (Python 3.12).
+requests==2.34.2
+beautifulsoup4==4.15.0
+streamlit==1.67.0

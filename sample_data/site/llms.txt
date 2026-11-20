@@ -1,0 +1,10 @@
+# Widgetly
+
+> Free online tools that run entirely in your browser. No sign-up, no uploads.
+
+## Tools
+
+- [Home](http://127.0.0.1:8123/index.html): Free online tools for everyday tasks
+- [About](http://127.0.0.1:8123/about.html): Who built Widgetly and why
+- [Tool list](http://127.0.0.1:8123/tools.html): Every tool on the site
+- [How to pick a strong password](http://127.0.0.1:8123/blog/post.html): 60-second guide
